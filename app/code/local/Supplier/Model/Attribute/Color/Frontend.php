@@ -1,0 +1,6 @@
+<?php
+
+class Blackbox_Supplier_Model_Attribute_Color_Frontend extends Mage_Eav_Model_Entity_Attribute_Frontend_Abstract
+{
+
+}
